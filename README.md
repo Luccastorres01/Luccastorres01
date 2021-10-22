@@ -5,7 +5,11 @@
 </head>
 <body>	
 	<div>
-		<h1 style="color: red">Trabaiando</h1>
+	<h1>
+		Técnico em informática ✅
+		<br>
+		Analista de sistemas 📚
+	</h1>
     <center>
     <img style="heigth: 80px; width: 110px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png">
     <img style="heigth: 50px; width: 90px;" src="https://icons-for-free.com/iconfiles/png/512/logo+my+query+server+sql+icon-1320184811372606623.png">
