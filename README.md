@@ -6,7 +6,7 @@
   <img align="center" height="40" width="55" src="https://quay.com.br/wp-content/uploads/2020/06/5848104fcef1014c0b5e4950.png">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="50" width="60" src="https://www.startertutorials.com/blog/wp-content/uploads/2018/04/python-logo.png">
+  <img align="center" height="70" width="80" src="https://www.startertutorials.com/blog/wp-content/uploads/2018/04/python-logo.png">
   <img align="center" height="30" width="55" src="https://marcas-logos.net/wp-content/uploads/2020/11/Java-logo.png" float="left">
   <img align="center" height="35" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png"> 
 </div>
